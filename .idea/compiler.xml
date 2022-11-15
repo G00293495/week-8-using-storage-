@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="week 8 using storage exceptions" />
+        <module name="week-8-using-storage-" />
       </profile>
     </annotationProcessing>
   </component>
